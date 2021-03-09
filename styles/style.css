@@ -10,7 +10,4 @@ img {
     margin-right: auto;
     width: 50%;
   }
-  #my-apps {
-    display: flex; 
-    justify-content: flex-end;
-  }
+  
