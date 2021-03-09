@@ -4,8 +4,13 @@ img {
     margin-right: auto;
     width: 40%;
   }
-  .center {
-    margin: auto;
+  input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 50%;
-    padding: 10px;
+  }
+  #my-apps {
+    display: flex; 
+    justify-content: flex-end;
   }
