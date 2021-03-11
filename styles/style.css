@@ -10,4 +10,15 @@ img {
     margin-right: auto;
     width: 50%;
   }
-  
+  #header {
+    display: flex;
+  justify-content: space-between;
+  }
+  #button {
+    display: flex;
+  justify-content: flex-end;
+  }
+  #buttons {
+    display: flex;
+  justify-content: center;
+  }
