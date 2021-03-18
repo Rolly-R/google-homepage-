@@ -27,20 +27,8 @@ main {
   #para {
     display: flex;
     align-items: flex-end;
+    justify-content: center;
   }
-  
-  #bottom-left{
-    display: flex;
-    justify-content: space-around;
-    transform;translate(100%);
-    transform; translate(25px);
-    width: 400px;
-  }
-  #bottom-right{
-    display: flex;
-    justify-content: space-around;
-    transform;translate(100%);
-    transform; translate(25px);
-    width: 400px;
-  }
+  #footer {
+    background-color:rgb(127, 127, 131) ;
   }
